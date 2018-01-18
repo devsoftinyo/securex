@@ -1,4 +1,4 @@
-ahmet
-mehmet
-hatice
-aleyna
+shell_exec( - testx
+shell( - testb
+system(- Bu kod sisteme komut vermek için zararlı olarak kullanılabilir.
+ini_get('safe_mode' - testf
