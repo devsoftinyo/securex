@@ -1,7 +1,7 @@
 import os,base64,re
 
 def detect(text):
-	x = re.findall('(".*")',text)
+	x = re.findall('base64_decode(".*")',text)
 	return x
 
 def decode(text):

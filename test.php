@@ -66,7 +66,7 @@
 //
 // Default Changes
 //    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
+base64_decode("dGVzdA==");
 $owner        = "SR-Crew";                                                      // Insert your nick
 $version      = "2.0.0";                                                        // The version    
 

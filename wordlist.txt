@@ -1,4 +1,9 @@
-shell_exec( - testx
-shell( - testb
+shell_exec( - Bu kod sisteme komut vermek için zararlı olarak kullanılabilir.
+shell( - Bu kod sisteme komut vermek için zararlı olarak kullanılabilir.
 system(- Bu kod sisteme komut vermek için zararlı olarak kullanılabilir.
-ini_get('safe_mode' - testf
+exec( - Bu kod sisteme komut vermek için zararlı olarak kullanılabilir.
+ini_get('safe_mode' - Bu kod güvenli mod durumunu göstermek için Shellerde yaygın olarak kullanılır.
+ini_get("disable_functions"); - Bu kod kapalı fonksiyonları göstermek için shellerde yaygın olarak kullanılır.
+base64_decode - Bu kod sayesinde base64 ile şifrelenmiş komutlar yerleştirilebilir.
+/etc/passwd - Bu dizin sistemdeki şifreli dosyaların bulunduğu dizindir.Kodda geçmesi şüphe çekici.
+$r - Weevely Backdoor !
