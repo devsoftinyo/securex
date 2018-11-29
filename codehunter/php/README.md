@@ -1,2 +1,2 @@
-PHP Code Hunter
-Automated bug and vulnerabilities detecting Script
+<h1>PHP Code Hunter</h1>
+  Automated bug and vulnerabilities detecting Script
